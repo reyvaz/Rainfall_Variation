@@ -1,5 +1,5 @@
-[**CLICK HERE**](https://reyvaz.github.io/NOAA-Database-Analysis/us_weather.html)
-to see the rendered Jupiter Notebook online.
+[**CLICK HERE**](http://nbviewer.jupyter.org/github/reyvaz/Rainfall_Variation/blob/master/rainfall_variation.ipynb)
+to see the rendered Jupiter Notebook online (opens in nbviewer).
 
 ## Monthly Rainfall Variation (% deviation from annual averages 2000 - Sep 2017)
 
