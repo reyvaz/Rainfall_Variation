@@ -1,14 +1,14 @@
 
 <a href="http://nbviewer.jupyter.org/github/reyvaz/Rainfall_Variation/blob/master/rainfall_variation.ipynb" target="_blank">Click Here</a>
-to see the rendered Jupiter Notebook online (opens in nbviewer).
+to see the Notebook online in Jupyter nbviewer.
 
 ## Monthly Rainfall Variation (% deviation from annual averages 2000 - Sep 2017)
 
 
-#### Analyzing rainfall variation, Python Code and Data Files
+#### Analyzing rainfall variation, Python code and data files
 
-This repository contains a Jupiter Notebook and supporting 
-data files aimed at analyzing rainfall variability. 
+This repository contains a Jupyter Notebook and supporting 
+data files for analyzing rainfall variability. 
 
 The data comes from the U.S. National Oceanic and 
 Atmospheric Administration's (NOAA)  Daily Summaries. It was retrieved on
@@ -22,7 +22,7 @@ The data downloaded are available in this repository.
 
 #### Contents:
 
-1. [rainfall_variation.ipynb](rainfall_variation.ipynb) Jupiter notebook that processes the data and creates the plot.
+1. [rainfall_variation.ipynb](rainfall_variation.ipynb) Jupyter notebook that processes the data and creates the plot.
 1. [ann_arbor.csv](ann_arbor.csv) contains rainfall and snowfall data from all stations in Ann Arbor MI., for the period reported.  
 2. [santa_barbara.csv](santa_barbara.csv) contains rainfall and snowfall data for all stations in Santa Barbara CA., for the period reported.  
 3. [montgomery.csv](montgomery.csv) contains rainfall and snowfall data for all stations in Montgomery AL., for the period reported. 
