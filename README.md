@@ -1,4 +1,5 @@
-[**CLICK HERE**](http://nbviewer.jupyter.org/github/reyvaz/Rainfall_Variation/blob/master/rainfall_variation.ipynb)
+
+<a href="http://nbviewer.jupyter.org/github/reyvaz/Rainfall_Variation/blob/master/rainfall_variation.ipynb" target="_blank">Click Here</a>
 to see the rendered Jupiter Notebook online (opens in nbviewer).
 
 ## Monthly Rainfall Variation (% deviation from annual averages 2000 - Sep 2017)
@@ -29,8 +30,8 @@ The data downloaded are available in this repository.
 
 <br>
 <p align="center">
-<a href="https://reyvaz.github.io/NOAA-Database-Analysis/us_weather.html" 
-rel="see html report">
+<a href="http://nbviewer.jupyter.org/github/reyvaz/Rainfall_Variation/blob/master/rainfall_variation.ipynb" 
+rel="see html report" target="_blank">
 <img src="weather.jpg" alt="Drawing" width = "850"></a>
 </p>
 <br>
